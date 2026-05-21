@@ -1,0 +1,30 @@
+{
+  "name": "proofchain",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reviewer-ready proof packs for AI-assisted builders. Turn claims into a verifiable claim-evidence chain.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "freeze-sample": "tsx scripts/freeze-sample.ts"
+  },
+  "dependencies": {
+    "next": "15.0.3",
+    "react": "19.0.0-rc-66855b96-20241106",
+    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "reactflow": "^11.11.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "eslint": "^9.14.0",
+    "eslint-config-next": "15.0.3",
+    "tsx": "^4.22.3",
+    "typescript": "^5.6.3"
+  },
+  "packageManager": "pnpm@9.12.3"
+}
