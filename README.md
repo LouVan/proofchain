@@ -6,9 +6,9 @@ ProofChain turns fragmented AI-build evidence (terminal logs, screenshots, commi
 
 ## Live project
 
-- Live demo: https://proofchain.vercel.app
-- Builder: https://proofchain.vercel.app/builder
-- Examples: https://proofchain.vercel.app/examples
+- Live demo: https://proofchain-opal.vercel.app
+- Builder: https://proofchain-opal.vercel.app/builder
+- Examples: https://proofchain-opal.vercel.app/examples
 - Public PRD: [PRD.md](./PRD.md)
 - GitHub: https://github.com/LouVan/proofchain
 

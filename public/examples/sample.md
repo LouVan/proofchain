@@ -11,7 +11,7 @@
 **Impact.** ProofChain reduces reviewer reading time per application from ~15 minutes to ~3 minutes by structuring claims and mapping each one to inspectable evidence.
 
 - GitHub: https://github.com/LouVan/proofchain
-- Live demo: https://proofchain.vercel.app
+- Live demo: https://proofchain-opal.vercel.app
 
 ## 2. AI-Assisted Workflow
 
@@ -35,7 +35,7 @@
 ## 4. Evidence
 
 - **e1** [github] Public GitHub repository ([link](https://github.com/LouVan/proofchain)) → supports: c1, c2, c3
-- **e2** [demo] Live Vercel deployment ([link](https://proofchain.vercel.app)) → supports: c1, c4
+- **e2** [demo] Live Vercel deployment ([link](https://proofchain-opal.vercel.app)) → supports: c1, c4
 - **e3** [log] Hermes Agent session transcript → supports: c3
   - docs/agent-session.md captures stage handoffs and verification gates.
 - **e4** [artifact] Deterministic snapshot fixtures → supports: c2

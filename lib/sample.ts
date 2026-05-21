@@ -9,7 +9,7 @@ const SAMPLE_PROFILE = {
   impact:
     "ProofChain reduces reviewer reading time per application from ~15 minutes to ~3 minutes by structuring claims and mapping each one to inspectable evidence.",
   githubUrl: "https://github.com/LouVan/proofchain",
-  demoUrl: "https://proofchain.vercel.app"
+  demoUrl: "https://proofchain-opal.vercel.app"
 };
 
 const SAMPLE_WORKFLOW = {
@@ -56,7 +56,7 @@ const SAMPLE_EVIDENCE: Evidence[] = [
     id: "e2",
     kind: "demo",
     label: "Live Vercel deployment",
-    url: "https://proofchain.vercel.app",
+    url: "https://proofchain-opal.vercel.app",
     supports: ["c1", "c4"]
   },
   {
